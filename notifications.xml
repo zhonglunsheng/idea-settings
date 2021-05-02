@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Android XML code style notification" displayType="NONE" shouldLog="false" />
+    <notification groupId="IDE and Plugin Updates" displayType="NONE" shouldLog="false" />
+    <notification groupId="JRebel non-sticky" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Run Dashboard" displayType="STICKY_BALLOON" />
+  </component>
+</application>

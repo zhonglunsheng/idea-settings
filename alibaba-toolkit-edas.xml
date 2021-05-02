@@ -1,0 +1,13 @@
+<application>
+  <component name="EdasStore">
+    <option name="serviceConnectMap">
+      <map>
+        <entry key="hello-spark-train">
+          <value>
+            <EdasServiceConnectModel />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

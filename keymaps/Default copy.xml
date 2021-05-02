@@ -1,0 +1,21 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="ChangesView.Diff" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="SendEOF" />
+  <action id="openAssertEqualsDiff" />
+</keymap>

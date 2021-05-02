@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".part-00000-eb903a4c-6c41-4959-b931-c72529e4a033-c000.snappy.parquet.crc" type="PLAIN_TEXT" />
+      <mapping pattern="wordCount" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="TestController" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="_SUCCESS" type="PLAIN_TEXT" />
+      <mapping pattern="TestController.java" type="PLAIN_TEXT" />
+      <mapping ext="parquet" type="PLAIN_TEXT" />
+      <mapping ext="bak" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
