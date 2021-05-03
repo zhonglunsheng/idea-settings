@@ -30,8 +30,12 @@
           <option name="url" value="git@gitee.com:lipop/wx-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/xiaonuobase/snowy.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\project\Git" />
+    <option name="cloneParentDir" value="D:\code" />
   </component>
 </application>
