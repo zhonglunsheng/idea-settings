@@ -57,16 +57,6 @@
                       <FeaturePluginData displayName="Arquillian TestNG" pluginName="com.intellij.jboss.arquillian" pluginId="com.intellij.jboss.arquillian" bundled="true" />
                     </value>
                   </entry>
-                  <entry key="BashConfigurationType">
-                    <value>
-                      <FeaturePluginData displayName="Legacy BashSupport" pluginName="BashSupport Pro" pluginId="pro.bashsupport" />
-                    </value>
-                  </entry>
-                  <entry key="BashProRunConfiguration">
-                    <value>
-                      <FeaturePluginData displayName="BashSupport Pro" pluginName="BashSupport Pro" pluginId="pro.bashsupport" />
-                    </value>
-                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
@@ -280,11 +270,6 @@
                   <entry key="XSLT">
                     <value>
                       <FeaturePluginData displayName="XSLT" pluginName="XPathView + XSLT" pluginId="XPathView" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="bashpro.bats-core">
-                    <value>
-                      <FeaturePluginData displayName="bats-core" pluginName="BashSupport Pro" pluginId="pro.bashsupport" />
                     </value>
                   </entry>
                   <entry key="docker-deploy">
