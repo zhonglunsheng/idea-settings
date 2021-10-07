@@ -1,0 +1,7 @@
+<application>
+  <component name="ConfigState">
+    <option name="theme" value="白色" />
+    <option name="longNum" value="自动" />
+    <option name="performance" value="150" />
+  </component>
+</application>
